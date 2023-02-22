@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y7j8ii15ujextron?svg=true)](https://ci.appveyor.com/project/OlyaVirchenko/ajs-symbols-generators)
